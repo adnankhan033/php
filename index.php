@@ -1,4 +1,5 @@
 <?php
+// array filter for searching specific array value
 echo "<pre>";
  $var = array(
 [
